@@ -4,7 +4,7 @@
 This project analyzes **Block, Inc. (NYSE: SQ)** as a hybrid fintech company operating across merchant payments, consumer finance, and Bitcoin-focused infrastructure. We combine **market-based analytics (returns, volatility, beta)** with **product and strategy analysis**, and complement it with **consumer sentiment analysis** of Cash App and competing payment apps using Google Play reviews (2023 to 2025).
 
 
-🔗 [Live Streamlit App](https://competitive-and-risk-analysisfintech-ad2swxqfaimz9m9zcdukac.streamlit.app/)
+🔗 [Live Streamlit App](https://competitive-and-risk-analysisblockinc.streamlit.app/)
 
 ---
 
